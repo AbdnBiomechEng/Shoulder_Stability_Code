@@ -7,7 +7,7 @@ function save_pole_forces
 % trials where the force pole was held the other way around
 bforce{1} = [];
 bforce{2} = [];
-bforce{3} = [];
+bforce{3} = 44:46;
 bforce{4} = [42 45:47];
 bforce{5} = [39 43:45 47:49];
 
